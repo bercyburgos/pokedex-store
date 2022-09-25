@@ -1,0 +1,57 @@
+[
+    {
+      "precio": 500,
+      "id": 1,
+      "title": "Pikachu",
+      "thumbnailUrl": "./images/pikachu.png"
+    },
+    {
+      "precio": 300,
+      "id": 2,
+      "title": "Charmander",
+      "thumbnailUrl": "./images/Charmander.png"
+    },
+    {
+      "precio": 100,
+      "id": 3,
+      "title": "Lucario",
+      "thumbnailUrl": "./images/lucario.png"
+    },
+    {
+      "precio": 150,
+      "id": 4,
+      "title": "Evee",
+      "thumbnailUrl": "./images/evee.png"
+    },
+    {
+      "precio": 60,
+      "id": 5,
+      "title": "Vaporeon",
+      "thumbnailUrl":"./images/vaporeon.png"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "Miau",
+      "thumbnailUrl": "./images/miau.png"
+    },
+    {
+      "precio": 130,
+      "id": 4,
+      "title": "Jolteon",
+      "thumbnailUrl": "./images/Jolteon.png"
+    },
+    {
+      "precio": 100,
+      "id": 5,
+      "title": "Leafeon",
+      "thumbnailUrl":"./images/LEAFEON.png"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "Squirtle",
+      "thumbnailUrl": "./images/squirtle.png"
+    }
+  
+  ]
